@@ -8,6 +8,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'washington': 'washington.csv' }
 
 #So I need to answer the questions based on this code! 
+''' It\'s a really awesome experience do Udacity courses, specially the Git-Github project! The correction team it's amazing'''
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
