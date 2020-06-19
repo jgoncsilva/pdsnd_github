@@ -6,7 +6,7 @@ import numpy as np
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
-
+#I would love if Udacity give me full scholarship for Data Analyst NanoDegree! Just a DREAM!
 #So I need to answer the questions based on this code! 
 ''' It\'s a really awesome experience do Udacity courses, specially the Git-Github project! The correction team it's amazing'''
 def get_filters():
