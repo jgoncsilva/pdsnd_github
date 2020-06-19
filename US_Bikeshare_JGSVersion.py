@@ -65,7 +65,7 @@ def get_filters():
 def check_option(): 
     
     while True: 
-        check = str(input("Sure about this? Type 'yes' to continue and 'no' to restart: \n").strip().lower())
+        check = str(input(" Are yoy sure about this? Type 'yes' to continue and 'no' to restart: \n").strip().lower())#I Made this change by order of Udacity git-github project
         if check not in ("yes", "no"):
             print("\nSorry! That\'s not an option. Please try again")
             continue

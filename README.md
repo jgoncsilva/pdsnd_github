@@ -11,3 +11,4 @@ US_Bikeshare_JGSVersion.py
 
 ### Credits
 For this project i just consult my own notes
+But this one is dedicated to the udacity project correction team <3
