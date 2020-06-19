@@ -1,15 +1,13 @@
-### Date created
-Include the date you created this project and README file.
+### 2020/06/19
 
-### Project Title
-Replace the Project Title
+### Project title
 
-### Description
-Describe what your project is about and what it does
+### Programm for learn version control and How to use Git and Github
+
 
 ### Files used
-Include the files used
+US_Bikeshare_JGSVersion.py
+.gitignore
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+For this project i just consult my own notes
